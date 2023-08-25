@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/other/markdown-syntax/</loc>
+    <loc>https://physicsay.com/other/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/articles/papersummary/</loc>
+    <loc>https://physicsay.com/articles/papersummary/</loc>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://physicsay.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://physicsay.com/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://physicsay.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/css/</loc>
+    <loc>https://physicsay.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/html/</loc>
+    <loc>https://physicsay.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/markdown/</loc>
+    <loc>https://physicsay.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://physicsay.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/syntax/</loc>
+    <loc>https://physicsay.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://physicsay.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/themes/</loc>
+    <loc>https://physicsay.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/series/themes-guide/</loc>
+    <loc>https://physicsay.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/other/</loc>
+    <loc>https://physicsay.com/other/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/privacy/</loc>
+    <loc>https://physicsay.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/articles/rich-content/</loc>
+    <loc>https://physicsay.com/articles/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/shortcodes/</loc>
+    <loc>https://physicsay.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/articles/</loc>
+    <loc>https://physicsay.com/articles/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/articles/math-typesetting/</loc>
+    <loc>https://physicsay.com/articles/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/articles/emoji-support/</loc>
+    <loc>https://physicsay.com/articles/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/emojiiiii/</loc>
+    <loc>https://physicsay.com/tags/emojiiiii/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://physicsay.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://physicsay.com/contact/</loc>
   </url><url>
-    <loc>http://example.org/tags/paperread/</loc>
+    <loc>https://physicsay.com/tags/paperread/</loc>
   </url><url>
-    <loc>http://example.org/tags/summary/</loc>
+    <loc>https://physicsay.com/tags/summary/</loc>
   </url><url>
-    <loc>http://example.org/mindmap/</loc>
+    <loc>https://physicsay.com/mindmap/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://physicsay.com/search/</loc>
     <priority>0.1</priority>
   </url>
 </urlset>

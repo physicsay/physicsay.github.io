@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperRead on Physicsay</title>
-    <link>http://example.org/tags/paperread/</link>
+    <link>https://physicsay.com/tags/paperread/</link>
     <description>Recent content in PaperRead on Physicsay</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/paperread/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://physicsay.com/tags/paperread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌟🌟🌟 外刊阅读一览</title>
-      <link>http://example.org/articles/papersummary/</link>
+      <link>https://physicsay.com/articles/papersummary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/papersummary/</guid>
+      <guid>https://physicsay.com/articles/papersummary/</guid>
       <description>&lt;p&gt;这是国外物理期刊的阅读笔记&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>这是国外物理期刊的阅读笔记</p>
 <hr>

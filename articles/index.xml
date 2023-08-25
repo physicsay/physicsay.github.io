@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>论文阅读 on Physicsay</title>
-    <link>http://example.org/articles/</link>
+    <link>https://physicsay.com/articles/</link>
     <description>Recent content in 论文阅读 on Physicsay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://physicsay.com/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌟🌟🌟 外刊阅读一览</title>
-      <link>http://example.org/articles/papersummary/</link>
+      <link>https://physicsay.com/articles/papersummary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/papersummary/</guid>
+      <guid>https://physicsay.com/articles/papersummary/</guid>
       <description>&lt;p&gt;这是国外物理期刊的阅读笔记&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>这是国外物理期刊的阅读笔记</p>
 <hr>
@@ -38,10 +38,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>http://example.org/articles/rich-content/</link>
+      <link>https://physicsay.com/articles/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/rich-content/</guid>
+      <guid>https://physicsay.com/articles/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
 <h2 id="heading"></h2>
@@ -54,10 +54,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>http://example.org/articles/math-typesetting/</link>
+      <link>https://physicsay.com/articles/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/math-typesetting/</guid>
+      <guid>https://physicsay.com/articles/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
       <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
 <p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
@@ -89,10 +89,10 @@ $$</p>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://example.org/articles/emoji-support/</link>
+      <link>https://physicsay.com/articles/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/articles/emoji-support/</guid>
+      <guid>https://physicsay.com/articles/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
