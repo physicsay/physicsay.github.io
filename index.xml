@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Physicsay</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Physicsay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://example.org/other/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/other/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+<h2 id="headings">Headings</h2>
+<p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<h5 id="h5">H5</h5>
+<h6 id="h6">H6</h6>
+<h2 id="paragraph">Paragraph</h2>
+<p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.</p>
+<p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.</p>
+<h2 id="blockquotes">Blockquotes</h2>
+<p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a <code>footer</code> or <code>cite</code> element, and optionally with in-line changes such as annotations and abbreviations.</p>
+<h4 id="blockquote-without-attribution">Blockquote without attribution</h4>
+<blockquote>
+<p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p>
+</blockquote>
+<h4 id="blockquote-with-attribution">Blockquote with attribution</h4>
+<blockquote>
+<p>Don&rsquo;t communicate by sharing memory, share memory by communicating.<!-- raw HTML omitted -->
+— <!-- raw HTML omitted -->Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><!-- raw HTML omitted --></p>
+</blockquote>
+<h2 id="tables">Tables</h2>
+<p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bob</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Alice</td>
+<td>23</td>
+</tr>
+</tbody>
+</table>
+<h4 id="inline-markdown-within-tables">Inline Markdown within tables</h4>
+<table>
+<thead>
+<tr>
+<th>Italics</th>
+<th>Bold</th>
+<th>Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>italics</em></td>
+<td><strong>bold</strong></td>
+<td><code>code</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="code-blocks">Code Blocks</h2>
+<h4 id="code-block-with-backticks">Code block with backticks</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#75715e">&lt;!doctype html&gt;</span>
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;utf-8&#34;</span> /&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">title</span>&gt;Example HTML5 Document&lt;/<span style="color:#f92672">title</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">p</span>&gt;Test&lt;/<span style="color:#f92672">p</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">html</span>&gt;
+</span></span></code></pre></div><h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces</h4>
+<pre><code>&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;utf-8&quot;&gt;
+  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Test&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&rsquo;s internal highlight shortcode</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#75715e">&lt;!doctype html&gt;</span>
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;utf-8&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">title</span>&gt;Example HTML5 Document&lt;/<span style="color:#f92672">title</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">p</span>&gt;Test&lt;/<span style="color:#f92672">p</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">html</span>&gt;</span></span></code></pre></div>
+<h2 id="list-types">List Types</h2>
+<h4 id="ordered-list">Ordered List</h4>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+</ol>
+<h4 id="unordered-list">Unordered List</h4>
+<ul>
+<li>List item</li>
+<li>Another item</li>
+<li>And another item</li>
+</ul>
+<h4 id="nested-list">Nested list</h4>
+<ul>
+<li>Fruit
+<ul>
+<li>Apple</li>
+<li>Orange</li>
+<li>Banana</li>
+</ul>
+</li>
+<li>Dairy
+<ul>
+<li>Milk</li>
+<li>Cheese</li>
+</ul>
+</li>
+</ul>
+<h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark</h2>
+<p><!-- raw HTML omitted -->GIF<!-- raw HTML omitted --> is a bitmap image format.</p>
+<p>H<!-- raw HTML omitted -->2<!-- raw HTML omitted -->O</p>
+<p>X<!-- raw HTML omitted -->n<!-- raw HTML omitted --> + Y<!-- raw HTML omitted -->n<!-- raw HTML omitted --> = Z<!-- raw HTML omitted -->n<!-- raw HTML omitted --></p>
+<p>Press <!-- raw HTML omitted --><!-- raw HTML omitted -->CTRL<!-- raw HTML omitted -->+<!-- raw HTML omitted -->ALT<!-- raw HTML omitted -->+<!-- raw HTML omitted -->Delete<!-- raw HTML omitted --><!-- raw HTML omitted --> to end the session.</p>
+<p>Most <!-- raw HTML omitted -->salamanders<!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The above quote is excerpted from Rob Pike&rsquo;s <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk</a> during Gopherfest, November 18, 2015.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>🌟🌟🌟 外刊阅读一览</title>
+      <link>http://example.org/articles/papersummary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/papersummary/</guid>
+      <description>&lt;p&gt;这是国外物理期刊的阅读笔记&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>这是国外物理期刊的阅读笔记</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>标题</th>
+<th>本站链接 🔗</th>
+<th>微信公众号链接 🔗</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>文章</td>
+<td><a href="https://physicsay.com">https://physicsay.com</a></td>
+<td><a href="https://www.youtube.com">www.youtube.com</a></td>
+</tr>
+</tbody>
+</table>]]></content:encoded>
+    </item>
+    
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://example.org/articles/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+      <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
+<h2 id="heading"></h2>
+<h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://example.org/articles/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+      <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#f92672">{{</span> <span style="color:#66d9ef">if</span> or .Params.math .Site.Params.math <span style="color:#f92672">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{{</span> partial <span style="color:#e6db74">&#34;math.html&#34;</span> . <span style="color:#f92672">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{{</span> end <span style="color:#f92672">}}</span>
+</span></span></code></pre></div><ul>
+<li>To enable KaTeX globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTeX on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
+
+<h3 id="examples">Examples</h3>
+<p>行间公式 $abd$</p>
+<p>Block math:</p>
+<p>$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
+<p>png1</p>
+<figure>
+     <img loading="lazy" style="margin:0 auto" src="../picture.png" width="40%"/> 
+ </figure>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://example.org/articles/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+      <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<!-- raw HTML omitted -->
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
+</span></span><span style="display:flex;"><span>font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hugo, the world&amp;#39;s fastest framework for building websites</description>
+      <content:encoded><![CDATA[<p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
+<p>Hugo makes use of a variety of open source projects including:</p>
+<ul>
+<li><a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark</a></li>
+<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
+<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
+<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
+<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
+</ul>
+<p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</p>
+<p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
+<p>Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</p>
+<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Contact &amp; Donate</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>联系方式 您可以添加我【微信】与我取得联系，请备注「从网站添加」。
+打赏 支付宝扫码请作者喝杯咖啡 ☕️</description>
+      <content:encoded><![CDATA[<h2 id="联系方式">联系方式</h2>
+<p>您可以添加我【微信】与我取得联系，请备注「从网站添加」。</p>
+<figure>
+     <img loading="lazy" style="margin:0 auto" src="/img/wechat.png" width="50%"/> 
+ </figure>
+
+<h2 id="打赏">打赏</h2>
+<p>支付宝扫码请作者喝杯咖啡 ☕️</p>
+<figure>
+     <img loading="lazy" style="margin:0 auto" src="/img/donate.png" width="50%"/> 
+ </figure>
+
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The Physics Teacher 论文思维导图</title>
+      <link>http://example.org/mindmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/mindmap/</guid>
+      <description>The Physics Teacher 论文整理
+物理刊物 有意思的物理 力学 String Shooter 中的物理 - May 23 Physics of the String Shooter https://doi.org/10.1119/5.0099300 解读文章：https://mp.weixin.qq.com/s/RFi21aaQwuI3TIy_JjdPIQ 自由落体中浮力消失的磁性演示 - Apr23 Absence of buoyant force in free fall: A magnetic demonstration https://doi.org/10.1119/5.0106363 解读文章：https://mp.weixin.qq.com/s/GpjR9NqdOyUG17GRsgvkHg 光学 不同折射率下的彩虹 - May 23 Rainbows in Different Refractive Indices https://doi.org/10.1119/5.0086915 解读文章：https://mp.weixin.qq.com/s/md_4zCP-OEiny9nYLdxfSQ 用手机相机演示双折射现象- Mar 22 Demonstrating birefringence using a smartphone camera https://doi.org/10.1119/10.0009696 解读文章：https://mp.weixin.qq.com/s/FqyRLFj98hTwGseJFoBmzQ 实验 力学 Arduino 测量声音在空气、水中的传播速度- May 23 Instantaneous Measurement of the Speed of Sound in Air and Water Using Arduino https://doi.</description>
+      <content:encoded><![CDATA[<p>The Physics Teacher 论文整理</p>
+<div id="test" class="mindmap mindmap-lg"><ul>
+<li>物理刊物
+<ul>
+<li>有意思的物理
+<ul>
+<li>力学
+<ul>
+<li>String Shooter 中的物理 - May 23
+<ul>
+<li>Physics of the String Shooter</li>
+<li><a href="https://doi.org/10.1119/5.0099300">https://doi.org/10.1119/5.0099300</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/RFi21aaQwuI3TIy_JjdPIQ</li>
+</ul>
+</li>
+<li>自由落体中浮力消失的磁性演示 - Apr23
+<ul>
+<li>Absence of buoyant force in free fall: A magnetic demonstration</li>
+<li><a href="https://doi.org/10.1119/5.0106363">https://doi.org/10.1119/5.0106363</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/GpjR9NqdOyUG17GRsgvkHg</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>光学
+<ul>
+<li>不同折射率下的彩虹 - May 23
+<ul>
+<li>Rainbows in Different Refractive Indices</li>
+<li><a href="https://doi.org/10.1119/5.0086915">https://doi.org/10.1119/5.0086915</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/md_4zCP-OEiny9nYLdxfSQ</li>
+</ul>
+</li>
+<li>用手机相机演示双折射现象- Mar 22
+<ul>
+<li>Demonstrating birefringence using a smartphone camera</li>
+<li><a href="https://doi.org/10.1119/10.0009696">https://doi.org/10.1119/10.0009696</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/FqyRLFj98hTwGseJFoBmzQ</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>实验
+<ul>
+<li>力学
+<ul>
+<li>Arduino 测量声音在空气、水中的传播速度- May 23
+<ul>
+<li>Instantaneous Measurement of the Speed of Sound in Air and Water Using Arduino</li>
+<li><a href="https://doi.org/10.1119/5.0118245">https://doi.org/10.1119/5.0118245</a></li>
+<li>解读文章: <a href="https://mp.weixin.qq.com/s/vMlqVue8_G_LqZ5dPEujuA">https://mp.weixin.qq.com/s/vMlqVue8_G_LqZ5dPEujuA</a></li>
+</ul>
+</li>
+<li>用智能手机测量呼吸速率 - Nov19（Phys. Educ.)
+<ul>
+<li>Measurement of breathing rate with a smartphone magnetometer: an engaging classroom activity in physics and biology</li>
+<li><a href="https://doi.org/10.1088/1361-6552/ab393f">https://doi.org/10.1088/1361-6552/ab393f</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/zVuI9pwxnTi6Ry1EX1w9lw</li>
+</ul>
+</li>
+<li>用磁力计测量不同行为下的呼吸速率 - Apr23
+<ul>
+<li>Application of the Oscillation Concept: Measuring the Human Respiration Rate in Various Activities Using a Smartphone’s Magnetometer Sensor</li>
+<li><a href="http://doi.org/10.1119/5.0060098">http://doi.org/10.1119/5.0060098</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/q3joMVJZeHDM5nV214dZmw</li>
+</ul>
+</li>
+<li>用感应电流测定重力加速度 g - Mar22
+<ul>
+<li>Determining Gravitational Acceleration Accurately and Simply</li>
+<li><a href="http://doi.org/10.1119/5.0024027">http://doi.org/10.1119/5.0024027</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/GpjR9NqdOyUG17GRsgvkHg</li>
+</ul>
+</li>
+<li>用 Arduino 分析能量守恒 - Apr 23
+<ul>
+<li>Energy Conservation Analysis Using Arduino</li>
+<li><a href="https://doi.org/10.1119/5.0067534">https://doi.org/10.1119/5.0067534</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/pfb_87ZWq4E-kVLLK6gfGg</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>电学
+<ul>
+<li>实验测量电阻率温度系数 - Apr 23
+<ul>
+<li>Experimental Verification of the Temperature Coefficient of Resistivity</li>
+<li><a href="https://doi.org/10.1119/5.0083668">https://doi.org/10.1119/5.0083668</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/9HNDlsHPjxgMlYL8rl3xKg</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>教学相关
+<ul>
+<li>天文、宇宙
+<ul>
+<li>通过称重验证开普勒第二定律- May 23
+<ul>
+<li>Kepler’s Second Law Using Integration by Weighing</li>
+<li><a href="https://doi.org/10.1119/5.0102901">https://doi.org/10.1119/5.0102901</a></li>
+<li>解读文章： <a href="https://mp.weixin.qq.com/s/D3lKqqEfH7N25anp22Wt0w">https://mp.weixin.qq.com/s/D3lKqqEfH7N25anp22Wt0w</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>电磁学
+<ul>
+<li>“推导”毕奥-沙阀尔定律- May 23
+<ul>
+<li>Motivating the Biot-Savart Law</li>
+<li><a href="https://doi.org/10.1119/5.0084454">https://doi.org/10.1119/5.0084454</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/gbqfuksHZS3jt_79q2cBeg</li>
+</ul>
+</li>
+<li>1 法拉的电容有什么用？- May 23
+<ul>
+<li>Labs and demos with a one-farad capacitor</li>
+<li><a href="https://doi.org/10.1119/5.0152309">https://doi.org/10.1119/5.0152309</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/NcQV2pjmlRuvghrhDrxySw</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>力学
+<ul>
+<li>小球向上滚动 - May 23
+<ul>
+<li>Acceleration of a Ball Up an Incline</li>
+<li><a href="https://doi.org/10.1119/5.0080835">https://doi.org/10.1119/5.0080835</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/pcZ8XifPtusWuvHHhtHcYQ</li>
+</ul>
+</li>
+<li>低成本的简谐运动实验演示- May 23
+<ul>
+<li>A low-cost device to demonstrate simple harmonic motion</li>
+<li><a href="https://doi.org/10.1119/5.0118245">https://doi.org/10.1119/5.0118245</a></li>
+<li>解读文章: <a href="https://mp.weixin.qq.com/s/7sIUnFhLdK_S8vkCi1qgEw">https://mp.weixin.qq.com/s/7sIUnFhLdK_S8vkCi1qgEw</a></li>
+</ul>
+</li>
+<li>用玩具、身体和智能手机感受单摆 - May23
+<ul>
+<li>Serious Physics on a Playground Swing—With Toys, Your Own Body, and a Smartphone</li>
+<li><a href="https://doi.org/10.1119/5.0074171">https://doi.org/10.1119/5.0074171</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/fmeStoVrsKtnSuXHmexPFQ</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>光学
+<ul>
+<li>测定液体折射率 - May23
+<ul>
+<li>[PAPERS] A Nonlinear Least-Squares Approach for Estimating the Refractive Index of a Liquid.pdf</li>
+<li><a href="https://doi.org/10.1119/5.0086331">https://doi.org/10.1119/5.0086331</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/36sv2DWbcCLKNY3MH79t0g</li>
+</ul>
+</li>
+<li>隐身的试管 - May23
+<ul>
+<li>Narrow-Band Invisibility Cloaking- The Vanishing Test Tube Revisited</li>
+<li><a href="https://doi.org/10.1119/5.0077759">https://doi.org/10.1119/5.0077759</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/PmpxOKbiR9LL69bgqlNLeg</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>融合内容
+<ul>
+<li>滑动摩擦与声音的关系 - Apr23
+<ul>
+<li>A model experiment on the modern microscopic theory of sliding friction</li>
+<li><a href="http://doi.org/10.1119/5.0146466">http://doi.org/10.1119/5.0146466</a></li>
+<li>解读文章：https://mp.weixin.qq.com/s/-xKQ3iWwoPbGhkbx2oedWw</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<p>第二个思维导图</p>
+<div id="sm" class="mindmap mindmap-lg"><ul>
+<li>根测试
+<ul>
+<li>测试1
+<ul>
+<li>测试11</li>
+<li>测试12</li>
+</ul>
+</li>
+<li>测试2
+<ul>
+<li>测试21</li>
+<li>测试225</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<h1 id="第二个思维导图">第二个思维导图</h1>
+<p>a</p>
+<h1 id="第3个思维导图">第3个思维导图</h1>
+<p>b</p>
+<h1 id="第4个思维导图">第4个思维导图</h1>
+<p>c</p>
+<h1 id="第5个思维导图">第5个思维导图</h1>
+<p>wdjdss</p>
+<p>sdd</p>
+]]></content:encoded>
+    </item>
+    
+    
+  </channel>
+</rss>

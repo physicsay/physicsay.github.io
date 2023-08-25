@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>privacy on Physicsay</title>
+    <link>http://example.org/tags/privacy/</link>
+    <description>Recent content in privacy on Physicsay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content</title>
+      <link>http://example.org/articles/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+      <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
+<h2 id="heading"></h2>
+<h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

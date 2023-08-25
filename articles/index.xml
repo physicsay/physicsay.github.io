@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>论文阅读 on Physicsay</title>
+    <link>http://example.org/articles/</link>
+    <description>Recent content in 论文阅读 on Physicsay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌟🌟🌟 外刊阅读一览</title>
+      <link>http://example.org/articles/papersummary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/papersummary/</guid>
+      <description>&lt;p&gt;这是国外物理期刊的阅读笔记&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>这是国外物理期刊的阅读笔记</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>标题</th>
+<th>本站链接 🔗</th>
+<th>微信公众号链接 🔗</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>文章</td>
+<td><a href="https://physicsay.com">https://physicsay.com</a></td>
+<td><a href="https://www.youtube.com">www.youtube.com</a></td>
+</tr>
+</tbody>
+</table>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://example.org/articles/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+      <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
+<h2 id="heading"></h2>
+<h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://example.org/articles/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+      <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#f92672">{{</span> <span style="color:#66d9ef">if</span> or .Params.math .Site.Params.math <span style="color:#f92672">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{{</span> partial <span style="color:#e6db74">&#34;math.html&#34;</span> . <span style="color:#f92672">}}</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{{</span> end <span style="color:#f92672">}}</span>
+</span></span></code></pre></div><ul>
+<li>To enable KaTeX globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTeX on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
+
+<h3 id="examples">Examples</h3>
+<p>行间公式 $abd$</p>
+<p>Block math:</p>
+<p>$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
+<p>png1</p>
+<figure>
+     <img loading="lazy" style="margin:0 auto" src="../picture.png" width="40%"/> 
+ </figure>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://example.org/articles/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+      <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<!-- raw HTML omitted -->
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
+</span></span><span style="display:flex;"><span>font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
