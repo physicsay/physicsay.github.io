@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Physicsay</title>
-    <link>https://physicsay.com/tags/</link>
+    <link>https://www.physicsay.com/tags/</link>
     <description>Recent content in Tags on Physicsay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://physicsay.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.physicsay.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://physicsay.com/tags/css/</link>
+      <link>https://www.physicsay.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/css/</guid>
+      <guid>https://www.physicsay.com/tags/css/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://physicsay.com/tags/html/</link>
+      <link>https://www.physicsay.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/html/</guid>
+      <guid>https://www.physicsay.com/tags/html/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://physicsay.com/tags/markdown/</link>
+      <link>https://www.physicsay.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/markdown/</guid>
+      <guid>https://www.physicsay.com/tags/markdown/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://physicsay.com/tags/privacy/</link>
+      <link>https://www.physicsay.com/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/privacy/</guid>
+      <guid>https://www.physicsay.com/tags/privacy/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://physicsay.com/tags/shortcodes/</link>
+      <link>https://www.physicsay.com/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/shortcodes/</guid>
+      <guid>https://www.physicsay.com/tags/shortcodes/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>emojiiiii</title>
-      <link>https://physicsay.com/tags/emojiiiii/</link>
+      <link>https://www.physicsay.com/tags/emojiiiii/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/emojiiiii/</guid>
+      <guid>https://www.physicsay.com/tags/emojiiiii/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>PaperRead</title>
-      <link>https://physicsay.com/tags/paperread/</link>
+      <link>https://www.physicsay.com/tags/paperread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/paperread/</guid>
+      <guid>https://www.physicsay.com/tags/paperread/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Summary</title>
-      <link>https://physicsay.com/tags/summary/</link>
+      <link>https://www.physicsay.com/tags/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/tags/summary/</guid>
+      <guid>https://www.physicsay.com/tags/summary/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

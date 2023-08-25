@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>emojiiiii on Physicsay</title>
-    <link>https://physicsay.com/tags/emojiiiii/</link>
+    <link>https://www.physicsay.com/tags/emojiiiii/</link>
     <description>Recent content in emojiiiii on Physicsay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://physicsay.com/tags/emojiiiii/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.physicsay.com/tags/emojiiiii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://physicsay.com/articles/emoji-support/</link>
+      <link>https://www.physicsay.com/articles/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/articles/emoji-support/</guid>
+      <guid>https://www.physicsay.com/articles/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>

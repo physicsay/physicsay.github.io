@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Physicsay</title>
-    <link>https://physicsay.com/series/</link>
+    <link>https://www.physicsay.com/series/</link>
     <description>Recent content in Series on Physicsay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://physicsay.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.physicsay.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>https://physicsay.com/series/themes-guide/</link>
+      <link>https://www.physicsay.com/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://physicsay.com/series/themes-guide/</guid>
+      <guid>https://www.physicsay.com/series/themes-guide/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
