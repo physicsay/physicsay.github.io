@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://physicsay.com/other/markdown-syntax/</loc>
+    <loc>https://physicsay.com/other/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/articles/papersummary/</loc>
+    <loc>https://physicsay.com/articles/papersummary/</loc>
   </url><url>
-    <loc>http://physicsay.com/archives/</loc>
+    <loc>https://physicsay.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/</loc>
+    <loc>https://physicsay.com/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/categories/</loc>
+    <loc>https://physicsay.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/css/</loc>
+    <loc>https://physicsay.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/html/</loc>
+    <loc>https://physicsay.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/markdown/</loc>
+    <loc>https://physicsay.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/series/</loc>
+    <loc>https://physicsay.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/categories/syntax/</loc>
+    <loc>https://physicsay.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/</loc>
+    <loc>https://physicsay.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/categories/themes/</loc>
+    <loc>https://physicsay.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/series/themes-guide/</loc>
+    <loc>https://physicsay.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/other/</loc>
+    <loc>https://physicsay.com/other/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/privacy/</loc>
+    <loc>https://physicsay.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/articles/rich-content/</loc>
+    <loc>https://physicsay.com/articles/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/shortcodes/</loc>
+    <loc>https://physicsay.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/articles/</loc>
+    <loc>https://physicsay.com/articles/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/articles/math-typesetting/</loc>
+    <loc>https://physicsay.com/articles/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/articles/emoji-support/</loc>
+    <loc>https://physicsay.com/articles/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/tags/emojiiiii/</loc>
+    <loc>https://physicsay.com/tags/emojiiiii/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/about/</loc>
+    <loc>https://physicsay.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://physicsay.com/contact/</loc>
+    <loc>https://physicsay.com/contact/</loc>
   </url><url>
-    <loc>http://physicsay.com/tags/paperread/</loc>
+    <loc>https://physicsay.com/tags/paperread/</loc>
   </url><url>
-    <loc>http://physicsay.com/tags/summary/</loc>
+    <loc>https://physicsay.com/tags/summary/</loc>
   </url><url>
-    <loc>http://physicsay.com/mindmap/</loc>
+    <loc>https://physicsay.com/mindmap/</loc>
   </url><url>
-    <loc>http://physicsay.com/search/</loc>
+    <loc>https://physicsay.com/search/</loc>
     <priority>0.1</priority>
   </url>
 </urlset>

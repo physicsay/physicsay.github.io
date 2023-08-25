@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Physicsay</title>
-    <link>http://physicsay.com/</link>
+    <link>https://physicsay.com/</link>
     <description>Recent content on Physicsay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://physicsay.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://physicsay.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://physicsay.com/other/markdown-syntax/</link>
+      <link>https://physicsay.com/other/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/other/markdown-syntax/</guid>
+      <guid>https://physicsay.com/other/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
@@ -157,10 +157,10 @@
     
     <item>
       <title>🌟🌟🌟 外刊阅读一览</title>
-      <link>http://physicsay.com/articles/papersummary/</link>
+      <link>https://physicsay.com/articles/papersummary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/articles/papersummary/</guid>
+      <guid>https://physicsay.com/articles/papersummary/</guid>
       <description>&lt;p&gt;这是国外物理期刊的阅读笔记&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>这是国外物理期刊的阅读笔记</p>
 <hr>
@@ -187,10 +187,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>http://physicsay.com/articles/rich-content/</link>
+      <link>https://physicsay.com/articles/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/articles/rich-content/</guid>
+      <guid>https://physicsay.com/articles/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
 <h2 id="heading"></h2>
@@ -203,10 +203,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>http://physicsay.com/articles/math-typesetting/</link>
+      <link>https://physicsay.com/articles/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/articles/math-typesetting/</guid>
+      <guid>https://physicsay.com/articles/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
       <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
 <p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
@@ -238,10 +238,10 @@ $$</p>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://physicsay.com/articles/emoji-support/</link>
+      <link>https://physicsay.com/articles/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/articles/emoji-support/</guid>
+      <guid>https://physicsay.com/articles/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
@@ -257,10 +257,10 @@ $$</p>
     
     <item>
       <title>About</title>
-      <link>http://physicsay.com/about/</link>
+      <link>https://physicsay.com/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/about/</guid>
+      <guid>https://physicsay.com/about/</guid>
       <description>Hugo, the world&amp;#39;s fastest framework for building websites</description>
       <content:encoded><![CDATA[<p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
 <p>Hugo makes use of a variety of open source projects including:</p>
@@ -280,10 +280,10 @@ $$</p>
     
     <item>
       <title>Contact &amp; Donate</title>
-      <link>http://physicsay.com/contact/</link>
+      <link>https://physicsay.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/contact/</guid>
+      <guid>https://physicsay.com/contact/</guid>
       <description>联系方式 您可以添加我【微信】与我取得联系，请备注「从网站添加」。
 打赏 支付宝扫码请作者喝杯咖啡 ☕️</description>
       <content:encoded><![CDATA[<h2 id="联系方式">联系方式</h2>
@@ -303,10 +303,10 @@ $$</p>
     
     <item>
       <title>The Physics Teacher 论文思维导图</title>
-      <link>http://physicsay.com/mindmap/</link>
+      <link>https://physicsay.com/mindmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://physicsay.com/mindmap/</guid>
+      <guid>https://physicsay.com/mindmap/</guid>
       <description>The Physics Teacher 论文整理
 物理刊物 有意思的物理 力学 String Shooter 中的物理 - May 23 Physics of the String Shooter https://doi.org/10.1119/5.0099300 解读文章：https://mp.weixin.qq.com/s/RFi21aaQwuI3TIy_JjdPIQ 自由落体中浮力消失的磁性演示 - Apr23 Absence of buoyant force in free fall: A magnetic demonstration https://doi.org/10.1119/5.0106363 解读文章：https://mp.weixin.qq.com/s/GpjR9NqdOyUG17GRsgvkHg 光学 不同折射率下的彩虹 - May 23 Rainbows in Different Refractive Indices https://doi.org/10.1119/5.0086915 解读文章：https://mp.weixin.qq.com/s/md_4zCP-OEiny9nYLdxfSQ 用手机相机演示双折射现象- Mar 22 Demonstrating birefringence using a smartphone camera https://doi.org/10.1119/10.0009696 解读文章：https://mp.weixin.qq.com/s/FqyRLFj98hTwGseJFoBmzQ 实验 力学 Arduino 测量声音在空气、水中的传播速度- May 23 Instantaneous Measurement of the Speed of Sound in Air and Water Using Arduino https://doi.</description>
       <content:encoded><![CDATA[<p>The Physics Teacher 论文整理</p>
